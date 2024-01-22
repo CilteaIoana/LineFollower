@@ -34,7 +34,7 @@ The crowning achievement of our line follower is the record lap time of 15.916 s
 
 ## Setup Picture: 
 <img src="https://github.com/CilteaIoana/LineFollower/assets/115061960/95f44325-64f5-435d-a48f-43c80a4d83cf" width="400" alt="LineFollower1">
-<img src="https://github.com/CilteaIoana/LineFollower/assets/115061960/10a95a59-f927-4f70-bb5d-473b529b568e" width="565" alt="LineFollower2">
+<img src="https://github.com/CilteaIoana/LineFollower/assets/115061960/10a95a59-f927-4f70-bb5d-473b529b568e" width="563" alt="LineFollower2">
 
 
 ## Code 💻
