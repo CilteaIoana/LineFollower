@@ -24,7 +24,7 @@ The Line Follower is an innovative robotic project designed to introduce the pri
 * Wires and Connectors 🔗
 
 ## Design Overview 🎨
-Our line follower robot features a sleek, white chassis with a low center of gravity for optimal balance 🛠️. It's equipped with a set of infrared sensors that detect the contrast of the black line against the track. A microcontroller acts as the brain, interpreting sensor signals and commanding two powerful motors that drive the wheels. This setup enables our bot to maneuver with precision and grace around the circuit 🔄.
+Our line follower robot features a sleek, white chassis with a low center of gravity to ensure stability 🛠️. It is equipped with infrared sensors that detect the contrast of the black line against a lighter track surface. The core processing unit interprets signals from these sensors and sends commands to two robust motors that propel the wheels. This configuration allows our bot to navigate the circuit with precision and agility 🔄.
 
 ## Performance Highlights ⏱️
 The crowning achievement of our line follower is the record lap time of 15.916 seconds 🚀.
