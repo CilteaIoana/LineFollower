@@ -33,8 +33,8 @@ The crowning achievement of our line follower is the record lap time of 15.916 s
 [https://youtu.be/vsS8tseQjgM](https://www.youtube.com/watch?v=vsS8tseQjgM&ab_channel=Antonia)
 
 ## Setup Picture: 
-<img src="https://github.com/CilteaIoana/LineFollower/assets/115061960/be9699c2-879f-4483-96fc-251aeb99ce5b" width="400" alt="WhatsApp Image 2024-01-22 at 17 53 11">
-<img src="https://github.com/CilteaIoana/LineFollower/assets/115061960/e857ff4c-b261-4f10-99b1-bf9d18444761" width="400" alt="WhatsApp Image 2024-01-22 at 17 53 10">
+<img src="https://github.com/CilteaIoana/LineFollower/assets/115061960/95f44325-64f5-435d-a48f-43c80a4d83cf" width="400" alt="LineFollower1">
+<img src="https://github.com/CilteaIoana/LineFollower/assets/115061960/10a95a59-f927-4f70-bb5d-473b529b568e" width="500" alt="LineFollower2">
 
 
 ## Code 💻
