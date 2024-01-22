@@ -1,4 +1,4 @@
-# 🏁 Line Follower Projecct (2023 - 2024) 🏎️
+# 🏁 Line Follower Project (2023 - 2024) 🏎️
 
 ## Project Description 📘
 The Line Follower is an innovative robotic project designed to introduce the principles of automated navigation. Our mission was to create a robot capable of following a track marked by a black line on a contrasting surface. Through this project, we explored concepts such as sensor integration, real-time data processing, and motor control.
