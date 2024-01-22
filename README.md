@@ -40,7 +40,7 @@ The crowning achievement of our line follower is the record lap time of 15.916 s
 ## Code 💻
 [Link to Code](https://github.com/CilteaIoana/LineFollower/blob/main/LineFollower.ino)
 
-## Team AIR Roster & GitHub Repositories 🚗
+## The AIR team & GitHub Repositories 🚗
 The AIR team, a trio of robotics enthusiasts, worked collaboratively to bring this line follower to life:
 
 
